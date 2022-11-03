@@ -27,7 +27,6 @@ This repo provides the skeleton to get you started with using <a href="https://g
       <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
     </a>
   </p>
-</p>
 
 ## Prerequisites
 
